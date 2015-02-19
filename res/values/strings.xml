@@ -4,5 +4,9 @@
     <string name="app_name">DMA_android_findcontrols</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="label_my_text_view">TextView text</string>
+    <string name="label_my_button">Button text</string>
+    <string name="label_go_to_next_activity">Go to next activity</string>
+    <string name="title_activity_next">NextActivity</string>
 
 </resources>
