@@ -22,7 +22,9 @@ public class MainActivity extends ActionBarActivity {
 
 			@Override
 			public void onClick(View v) {
+//				Intent intent = new Intent(v.getContext(),NextActivity.class);
 				Intent intent = new Intent(v.getContext(),NextActivity.class);
+
 				startActivity(intent);
 			}
 
